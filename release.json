@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.0.8",
-  "baseVersionCode": 100080,
+  "versionName": "1.0.9",
+  "baseVersionCode": 100090,
   "minSdk": 26,
-  "releasedAt": "2026-11-20T22:48:28Z",
-  "notes": "تقليل حجم نموذج الصوت بمقدار ٨٦ ميجابايت وتحسين دقة التعرف على أسماء التلاميذ",
+  "releasedAt": "2026-11-20T23:35:17Z",
+  "notes": "يتعلم التطبيق نطق أسماء التلاميذ من تأكيدك للاختيار الصحيح، ويستخدمه تلقائياً في المرات القادمة — دون إنترنت أو رفع صوت، مع إمكانية مسح ما تعلّمه من الإعدادات",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 100080,
+      "versionCode": 100090,
       "size": 22116710,
-      "sha256": "320035376e4640e6dace256c49bc024c3cf74eb0b65db343f121fbdcb3220e0c"
+      "sha256": "b4708cf92664fced671bc186a03c7e3b44a2e197f3df25a46e03cb30424382c4"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 100081,
+      "versionCode": 100091,
       "size": 19322848,
-      "sha256": "d58539805458e3b93dc0522f9300fd9c390380a51fa25d53556fd115693c6e21"
+      "sha256": "1fd1b690ba3e653af1f1c6627b5eee4bd49d75f5651c542b09b58ad2b4208d5f"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 100082,
+      "versionCode": 100092,
       "size": 23359281,
-      "sha256": "482950ae92ab4955f7e394929e8054f68a1c3b01a4eb1aa8134a227e7255ab20"
+      "sha256": "ab266a5d5124410c3f953f7a95f5243f56e296fba1e26631b484e4227ce03c34"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 100083,
+      "versionCode": 100093,
       "size": 23618300,
-      "sha256": "450350ccca25f6a21cb13ba9f321e89b7a80400a2d2eeb7531602406155a16a8"
+      "sha256": "fdc0d8753e28d9f0edfaf19bb1fb215ad77b9e50c0900c419675bcc97f0aaafa"
     }
   }
 }
