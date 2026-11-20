@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.0.6",
-  "baseVersionCode": 100060,
+  "versionName": "1.0.8",
+  "baseVersionCode": 100080,
   "minSdk": 26,
-  "releasedAt": "2026-11-20T21:13:16Z",
-  "notes": "إصلاح التنزيل: لا يتوقف تحديث التطبيق عند مغادرة الإعدادات والعودة إليها",
+  "releasedAt": "2026-11-20T22:48:28Z",
+  "notes": "تقليل حجم نموذج الصوت بمقدار ٨٦ ميجابايت وتحسين دقة التعرف على أسماء التلاميذ",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 100060,
-      "size": 22100326,
-      "sha256": "9b12a65e6d580bcac8c81c2079234764c0119dc208038727e38643a93b45d951"
+      "versionCode": 100080,
+      "size": 22116710,
+      "sha256": "320035376e4640e6dace256c49bc024c3cf74eb0b65db343f121fbdcb3220e0c"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 100061,
-      "size": 19306464,
-      "sha256": "70e30a1c8efb90cad9eaa186dab47ec5ed39c283588f52fffb67ddeae4f5f788"
+      "versionCode": 100081,
+      "size": 19322848,
+      "sha256": "d58539805458e3b93dc0522f9300fd9c390380a51fa25d53556fd115693c6e21"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 100062,
-      "size": 23342897,
-      "sha256": "349d8a5aff20eb783a3e562f0e67633f0e7f0f42b205bb36ffe29c33194a04af"
+      "versionCode": 100082,
+      "size": 23359281,
+      "sha256": "482950ae92ab4955f7e394929e8054f68a1c3b01a4eb1aa8134a227e7255ab20"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 100063,
-      "size": 23601916,
-      "sha256": "d66f5b78ddb151d7929b77f5d3dca35c5af9a8c90e0f065af403c09e2dbd3bcb"
+      "versionCode": 100083,
+      "size": 23618300,
+      "sha256": "450350ccca25f6a21cb13ba9f321e89b7a80400a2d2eeb7531602406155a16a8"
     }
   }
 }
