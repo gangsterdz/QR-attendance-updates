@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.0.4",
-  "baseVersionCode": 100040,
+  "versionName": "1.0.5",
+  "baseVersionCode": 100050,
   "minSdk": 26,
-  "releasedAt": "2026-11-20T19:55:19Z",
-  "notes": "تحديثات تلقائية دون رمز وصول",
+  "releasedAt": "2026-11-20T20:39:52Z",
+  "notes": "تحسينات الأداء وتقليل استهلاك البطارية مع حضور تلقائي وتعرف صوتي أسرع",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 100040,
+      "versionCode": 100050,
       "size": 22100326,
-      "sha256": "b62c8c7890cfdd6fd8217155fc28c5afdc75184dd9a661c160551e14500c3990"
+      "sha256": "38f474e7926079657108caee7af2f7cc307e9da60fd07ffed81be6329ce301bb"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 100041,
+      "versionCode": 100051,
       "size": 19306464,
-      "sha256": "4fda275add60e6721d0df7c2ceeebd9d0df5c40fa2376753fdd73df58197d3d4"
+      "sha256": "fdd62a1e37eff3ec2102c98aa6e0ab55ea73b2b1efaae5d0b9ea82986f0e6e10"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 100042,
+      "versionCode": 100052,
       "size": 23342897,
-      "sha256": "70c68e0df654660e1992354cf14f1f30650d337b3b0b99538849a62d7cbaa445"
+      "sha256": "6b590ef75942238ec9c12dcb8689246f1243736d8fc941d9cd810103aa9eb1fd"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 100043,
+      "versionCode": 100053,
       "size": 23601916,
-      "sha256": "8b53b41fbf691911bc1b8fb0bbef716414b92fe023df4cff3be932aca77509b7"
+      "sha256": "1ba1eb1fb6de3ce6ebe23453c75b083b469eeeca8ae8bf1a54c2cf5899b5cb71"
     }
   }
 }
