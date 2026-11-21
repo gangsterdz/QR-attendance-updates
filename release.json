@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.0.9",
-  "baseVersionCode": 100090,
+  "versionName": "1.1.0",
+  "baseVersionCode": 101000,
   "minSdk": 26,
-  "releasedAt": "2026-11-20T23:35:17Z",
-  "notes": "يتعلم التطبيق نطق أسماء التلاميذ من تأكيدك للاختيار الصحيح، ويستخدمه تلقائياً في المرات القادمة — دون إنترنت أو رفع صوت، مع إمكانية مسح ما تعلّمه من الإعدادات",
+  "releasedAt": "2026-11-21T00:37:17Z",
+  "notes": "تسجيل صوتي أسرع بفتح الميكروفون من لحظة الضغط، وزر أحمر واضح أثناء التسجيل. وإذا لم يتعرف التطبيق على الاسم مباشرة، يعرض أقرب التلاميذ لتختار منهم بضغطة واحدة، ويستفيد من كل النسخ التي يسمعها محرك الصوت دون تسجيل اسم خاطئ. كما يتعلم من رفضك للاختيار غير الصحيح، ويمكنك مراجعة النطقات المحفوظة وتصحيحها من الإعدادات — كل ذلك دون إنترنت أو رفع صوت.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 100090,
-      "size": 22116710,
-      "sha256": "b4708cf92664fced671bc186a03c7e3b44a2e197f3df25a46e03cb30424382c4"
+      "versionCode": 101000,
+      "size": 22133090,
+      "sha256": "722df8efe322aeb1c0f6081297111bf691a4ed91b6a4490f85e5b31f5c0e3cc3"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 100091,
-      "size": 19322848,
-      "sha256": "1fd1b690ba3e653af1f1c6627b5eee4bd49d75f5651c542b09b58ad2b4208d5f"
+      "versionCode": 101001,
+      "size": 19339228,
+      "sha256": "b05110570a1975e146199b4ab4e9f7e8420187f331d996e1617b41603aa14023"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 100092,
-      "size": 23359281,
-      "sha256": "ab266a5d5124410c3f953f7a95f5243f56e296fba1e26631b484e4227ce03c34"
+      "versionCode": 101002,
+      "size": 23375661,
+      "sha256": "0d941ca5f5ecf107833041cd818ae3ec98fac52f28d0c2b4b862876ebeaeaaf9"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 100093,
-      "size": 23618300,
-      "sha256": "fdc0d8753e28d9f0edfaf19bb1fb215ad77b9e50c0900c419675bcc97f0aaafa"
+      "versionCode": 101003,
+      "size": 23634680,
+      "sha256": "2d4fe8b8621f3b095a18cad7f6aa49183acd268770f5afafa2c1c1de59216e2d"
     }
   }
 }
