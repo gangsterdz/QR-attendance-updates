@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.0",
-  "baseVersionCode": 101000,
+  "versionName": "1.1.1",
+  "baseVersionCode": 101010,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T00:37:17Z",
-  "notes": "تسجيل صوتي أسرع بفتح الميكروفون من لحظة الضغط، وزر أحمر واضح أثناء التسجيل. وإذا لم يتعرف التطبيق على الاسم مباشرة، يعرض أقرب التلاميذ لتختار منهم بضغطة واحدة، ويستفيد من كل النسخ التي يسمعها محرك الصوت دون تسجيل اسم خاطئ. كما يتعلم من رفضك للاختيار غير الصحيح، ويمكنك مراجعة النطقات المحفوظة وتصحيحها من الإعدادات — كل ذلك دون إنترنت أو رفع صوت.",
+  "releasedAt": "2026-11-21T01:53:33Z",
+  "notes": "تحسينات في أداء تشغيل التطبيق وفتح سجلات الحضور وطباعتها، وتقليل العمل المتكرر أثناء الاستماع الصوتي وتحديث القوائم. تعبئة سجلات الغياب القديمة تتم الآن على دفعات قصيرة ومحدودة عند التشغيل بدل دفعة واحدة، من دون تغيير قواعد التسجيل التلقائي أو النطقات المتعلّمة التي تحفظها على جهازك.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101000,
+      "versionCode": 101010,
       "size": 22133090,
-      "sha256": "722df8efe322aeb1c0f6081297111bf691a4ed91b6a4490f85e5b31f5c0e3cc3"
+      "sha256": "ec6aa8d5f90f8892589bc962312a8ed222e650ee6441cf61974c48568697d29f"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101001,
+      "versionCode": 101011,
       "size": 19339228,
-      "sha256": "b05110570a1975e146199b4ab4e9f7e8420187f331d996e1617b41603aa14023"
+      "sha256": "1ce95776ce0d8bcd3a4cac3b863a7575ad45b2fc0a9838f2321c8a65ab2a7b95"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101002,
+      "versionCode": 101012,
       "size": 23375661,
-      "sha256": "0d941ca5f5ecf107833041cd818ae3ec98fac52f28d0c2b4b862876ebeaeaaf9"
+      "sha256": "367206c57b6b5b0f6026e7ffeeba266d9fa4c95858d740b5d0863bbf4082646c"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101003,
+      "versionCode": 101013,
       "size": 23634680,
-      "sha256": "2d4fe8b8621f3b095a18cad7f6aa49183acd268770f5afafa2c1c1de59216e2d"
+      "sha256": "1f598586edece9c64d7de995c8230787eec891c63945595244a9496da0938462"
     }
   }
 }
