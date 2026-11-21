@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.3",
-  "baseVersionCode": 101030,
+  "versionName": "1.1.4",
+  "baseVersionCode": 101040,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T02:32:25Z",
-  "notes": "تحسينات إضافية لسلاسة فتح الماسح الضوئي وبدء المسح، وتقليل التوقف عند الانتقال بين الشاشات، وتحسين استجابة الأزرار والقوائم وإشعارات الحالة. صوت التسجيل يبقى على الجهاز من دون اتصال، ولا تتغير قواعد التسجيل التلقائي أو النطقات المتعلّمة المحفوظة لديك.",
+  "releasedAt": "2026-11-21T13:46:36Z",
+  "notes": "إصلاح تشغيل الكاميرا أثناء الحصص الدراسية فقط، ومنع المسح خارج أوقات الدوام وفي أيام العطل، وتقييد المسح بالفوج الحالي بحسب الجدول الأسبوعي. يبقى التصحيح اليدوي متاحاً في كل الأوقات، مع الحفاظ على قواعد التسجيل السابقة والصوت دون اتصال.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101030,
-      "size": 22133090,
-      "sha256": "2e1181bfb6d9607a18b795ebc1ae4012564435d8a608a07d517fe877de96d1f7"
+      "versionCode": 101040,
+      "size": 22149474,
+      "sha256": "86adc93f5be47efc817cf56598c19acceb2b704d1ec6639456ddae1dd19e80d1"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101031,
-      "size": 19339228,
-      "sha256": "78e7c400207392140539e103e02260882e404e19d9a2f1dd7f4926f52dca2d8a"
+      "versionCode": 101041,
+      "size": 19355612,
+      "sha256": "1efe3fdcf97d64ffc4b9a5655882c25028d6fdcc61369d4c26aad68f4708fca2"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101032,
-      "size": 23375661,
-      "sha256": "37f0f095ce2e19fce351f6f943384bb3347cd3c2bf54f2bbdd227f47f44c3948"
+      "versionCode": 101042,
+      "size": 23392045,
+      "sha256": "bcc95028fe7017279d2c032d365139b98df96425a56aa71daaed3dd3b202bf3b"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101033,
-      "size": 23634680,
-      "sha256": "9fa2e1377c5abadd288d15d8ca78e20cea3898e9d0d89b2631bd81312de840ff"
+      "versionCode": 101043,
+      "size": 23651064,
+      "sha256": "80a2a65655a2d5be73e0eb55c45ab30a7aa50f52a0073fcacaf0a4734ac61dbc"
     }
   }
 }
