@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.4",
-  "baseVersionCode": 101040,
+  "versionName": "1.1.5",
+  "baseVersionCode": 101050,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T13:46:36Z",
-  "notes": "إصلاح تشغيل الكاميرا أثناء الحصص الدراسية فقط، ومنع المسح خارج أوقات الدوام وفي أيام العطل، وتقييد المسح بالفوج الحالي بحسب الجدول الأسبوعي. يبقى التصحيح اليدوي متاحاً في كل الأوقات، مع الحفاظ على قواعد التسجيل السابقة والصوت دون اتصال.",
+  "releasedAt": "2026-11-21T14:52:46Z",
+  "notes": "تحسين سلاسة الشاشة الرئيسية وتقليل استهلاك المعالج أثناء عرض حلقة المسح، مع تسريع فتح الماسح والانتقال بين الشاشات. لا تغيير في قواعد التسجيل أو الكاميرا أو التصحيح اليدوي.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101040,
+      "versionCode": 101050,
       "size": 22149474,
-      "sha256": "86adc93f5be47efc817cf56598c19acceb2b704d1ec6639456ddae1dd19e80d1"
+      "sha256": "c5ce90efad01507570f2e231047d0fb0baf6ff92e07443ad710d11e809dbb8f1"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101041,
+      "versionCode": 101051,
       "size": 19355612,
-      "sha256": "1efe3fdcf97d64ffc4b9a5655882c25028d6fdcc61369d4c26aad68f4708fca2"
+      "sha256": "d84ae36b2979a39569884ab2e351e7a14e96be43926370ae293bcd0c523fe668"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101042,
+      "versionCode": 101052,
       "size": 23392045,
-      "sha256": "bcc95028fe7017279d2c032d365139b98df96425a56aa71daaed3dd3b202bf3b"
+      "sha256": "186be0b96c4b3a038cf16884cad77d34a8899b1ec368f735317e62789e11200c"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101043,
+      "versionCode": 101053,
       "size": 23651064,
-      "sha256": "80a2a65655a2d5be73e0eb55c45ab30a7aa50f52a0073fcacaf0a4734ac61dbc"
+      "sha256": "313445e28fa78b72c8cab72ade9f080a866a561fa7533baa68def82cdec444b4"
     }
   }
 }
