@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.7",
-  "baseVersionCode": 101070,
+  "versionName": "1.1.8",
+  "baseVersionCode": 101080,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T17:48:50Z",
-  "notes": "إصلاح عرض التقويم أثناء التمرير بين الأشهر: أصبحت أيام الشهر التالي تظهر أثناء حركة السحب قبل استقرارها، بدل أن تظهر بعد انتهاء الحركة فقط. لا تغيير في قواعد التسجيل أو التحديثات أو التخزين.",
+  "releasedAt": "2026-11-21T18:46:06Z",
+  "notes": "تحسين قسم التحديثات في الإعدادات: عرض أوضح لحالة الفحص والتنزيل مع السرعة والوقت المتبقي، وترتيب أفضل للأزرار والرسائل، ونصوص أكثر وضوحاً لحالات التحديث وإعادة المحاولة. لا تغيير في قواعد الحضور أو التخزين أو أمان التثبيت.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101070,
+      "versionCode": 101080,
       "size": 22149474,
-      "sha256": "f534e42d104a85105301fb3d955c4937af134e96bb6f73982f291408cd198057"
+      "sha256": "99be2231471e778826b7297f67de8757e76cfbfaa74a1015ef8594f0dddacccc"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101071,
+      "versionCode": 101081,
       "size": 19355612,
-      "sha256": "bd760c29be217fa570175b3d0c62ee0aafd91da7e84b31eff73a22dbcc72543b"
+      "sha256": "58587c54642b8bfb2c345b503cfe05bf47ae6b1342d99e984778013c9992dfe8"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101072,
+      "versionCode": 101082,
       "size": 23392045,
-      "sha256": "d74c4da2dbbe94bef54b4ac60659c03b73fbfbdf4ea1b2478f2c5d1896725566"
+      "sha256": "fcb00049c4c64de4c3aa310b62a6df03b5c9d045003333860718e47c7fbeef99"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101073,
+      "versionCode": 101083,
       "size": 23651064,
-      "sha256": "9489378b81dc57dbf4f568db9403ec2ead2920c168e7176b63511542244b28b7"
+      "sha256": "a9982465b02a92b25bb58ce9229e0b0c688a64354414a9284e7c35dbea67f3d8"
     }
   }
 }
