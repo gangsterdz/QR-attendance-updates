@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.5",
-  "baseVersionCode": 101050,
+  "versionName": "1.1.6",
+  "baseVersionCode": 101060,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T14:52:46Z",
-  "notes": "تحسين سلاسة الشاشة الرئيسية وتقليل استهلاك المعالج أثناء عرض حلقة المسح، مع تسريع فتح الماسح والانتقال بين الشاشات. لا تغيير في قواعد التسجيل أو الكاميرا أو التصحيح اليدوي.",
+  "releasedAt": "2026-11-21T16:44:32Z",
+  "notes": "تبسيط القسم السفلي من الإعدادات وتقليل المساحات الفارغة، مع واجهة أكثر إيجازاً واستجابة أسرع للأزرار، وتحسين سلاسة التمرير بين أشهر التقويم. لا تغيير في قواعد التسجيل أو التحديثات أو التخزين.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101050,
+      "versionCode": 101060,
       "size": 22149474,
-      "sha256": "c5ce90efad01507570f2e231047d0fb0baf6ff92e07443ad710d11e809dbb8f1"
+      "sha256": "0c0d9884f618a9518633471d09bd249264d671d0a25ccf1d1a0c9ccfaa9a452a"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101051,
+      "versionCode": 101061,
       "size": 19355612,
-      "sha256": "d84ae36b2979a39569884ab2e351e7a14e96be43926370ae293bcd0c523fe668"
+      "sha256": "450853d9c90c9a7987986062f88f5207838873b093f7911573653d88aaf54833"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101052,
+      "versionCode": 101062,
       "size": 23392045,
-      "sha256": "186be0b96c4b3a038cf16884cad77d34a8899b1ec368f735317e62789e11200c"
+      "sha256": "2cef6cb60b95bbb3c55dd1d87d9ee68dce205228f5b30a42c0a0597cd0d10360"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101053,
+      "versionCode": 101063,
       "size": 23651064,
-      "sha256": "313445e28fa78b72c8cab72ade9f080a866a561fa7533baa68def82cdec444b4"
+      "sha256": "9030694167d038aa92ac6b69911cb76cfea8f96fc3692b31646f7ce7e22cfea6"
     }
   }
 }
