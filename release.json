@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.6",
-  "baseVersionCode": 101060,
+  "versionName": "1.1.7",
+  "baseVersionCode": 101070,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T16:44:32Z",
-  "notes": "تبسيط القسم السفلي من الإعدادات وتقليل المساحات الفارغة، مع واجهة أكثر إيجازاً واستجابة أسرع للأزرار، وتحسين سلاسة التمرير بين أشهر التقويم. لا تغيير في قواعد التسجيل أو التحديثات أو التخزين.",
+  "releasedAt": "2026-11-21T17:48:50Z",
+  "notes": "إصلاح عرض التقويم أثناء التمرير بين الأشهر: أصبحت أيام الشهر التالي تظهر أثناء حركة السحب قبل استقرارها، بدل أن تظهر بعد انتهاء الحركة فقط. لا تغيير في قواعد التسجيل أو التحديثات أو التخزين.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101060,
+      "versionCode": 101070,
       "size": 22149474,
-      "sha256": "0c0d9884f618a9518633471d09bd249264d671d0a25ccf1d1a0c9ccfaa9a452a"
+      "sha256": "f534e42d104a85105301fb3d955c4937af134e96bb6f73982f291408cd198057"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101061,
+      "versionCode": 101071,
       "size": 19355612,
-      "sha256": "450853d9c90c9a7987986062f88f5207838873b093f7911573653d88aaf54833"
+      "sha256": "bd760c29be217fa570175b3d0c62ee0aafd91da7e84b31eff73a22dbcc72543b"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101062,
+      "versionCode": 101072,
       "size": 23392045,
-      "sha256": "2cef6cb60b95bbb3c55dd1d87d9ee68dce205228f5b30a42c0a0597cd0d10360"
+      "sha256": "d74c4da2dbbe94bef54b4ac60659c03b73fbfbdf4ea1b2478f2c5d1896725566"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101063,
+      "versionCode": 101073,
       "size": 23651064,
-      "sha256": "9030694167d038aa92ac6b69911cb76cfea8f96fc3692b31646f7ce7e22cfea6"
+      "sha256": "9489378b81dc57dbf4f568db9403ec2ead2920c168e7176b63511542244b28b7"
     }
   }
 }
