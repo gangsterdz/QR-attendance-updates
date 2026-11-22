@@ -1,37 +1,37 @@
 {
   "schema": 1,
-  "versionName": "1.1.8",
-  "baseVersionCode": 101080,
+  "versionName": "1.1.9",
+  "baseVersionCode": 101090,
   "minSdk": 26,
-  "releasedAt": "2026-11-21T18:46:06Z",
-  "notes": "تحسين قسم التحديثات في الإعدادات: عرض أوضح لحالة الفحص والتنزيل مع السرعة والوقت المتبقي، وترتيب أفضل للأزرار والرسائل، ونصوص أكثر وضوحاً لحالات التحديث وإعادة المحاولة. لا تغيير في قواعد الحضور أو التخزين أو أمان التثبيت.",
+  "releasedAt": "2026-11-22T09:25:08Z",
+  "notes": "تحسين تقويم الحضور: لون مختلف لكل نوع من الأيام غير الدراسية، منها نهاية الأسبوع والعطل والمناسبات والامتحانات ورمضان، مع وضوح مناسب للمظهر الفاتح والداكن، ودليل ألوان وتفاصيل أوضح لكل يوم، ومؤشر مقفل أصغر في الماسح. لا تغيير في قواعد الحضور أو التخزين أو أمان التثبيت.",
   "autoInstall": true,
   "installDelayMinutes": 15,
   "blockedVersionCodes": [],
   "apks": {
     "arm64-v8a": {
       "asset": "app-arm64-v8a-release.apk",
-      "versionCode": 101080,
-      "size": 22149474,
-      "sha256": "99be2231471e778826b7297f67de8757e76cfbfaa74a1015ef8594f0dddacccc"
+      "versionCode": 101090,
+      "size": 22393926,
+      "sha256": "1d3182d3300398a66ca9aff73c6a586757f85ed3e9f7d44dce275f98af50b39b"
     },
     "armeabi-v7a": {
       "asset": "app-armeabi-v7a-release.apk",
-      "versionCode": 101081,
-      "size": 19355612,
-      "sha256": "58587c54642b8bfb2c345b503cfe05bf47ae6b1342d99e984778013c9992dfe8"
+      "versionCode": 101091,
+      "size": 19600064,
+      "sha256": "97d903c03bcb252d51d6b7ba1e1ed263b0088e7061514900688b5cb01a41da91"
     },
     "x86_64": {
       "asset": "app-x86_64-release.apk",
-      "versionCode": 101082,
-      "size": 23392045,
-      "sha256": "fcb00049c4c64de4c3aa310b62a6df03b5c9d045003333860718e47c7fbeef99"
+      "versionCode": 101092,
+      "size": 23636497,
+      "sha256": "49033619f53e731098b1ce6ba67c9b0aae5fd155f2ce56294ee9f30c71b93f64"
     },
     "x86": {
       "asset": "app-x86-release.apk",
-      "versionCode": 101083,
-      "size": 23651064,
-      "sha256": "a9982465b02a92b25bb58ce9229e0b0c688a64354414a9284e7c35dbea67f3d8"
+      "versionCode": 101093,
+      "size": 23895516,
+      "sha256": "726d454e6cd39b1d9f01297ded64e0618edebec43076d051e1d08870d1b2d4c2"
     }
   }
 }
